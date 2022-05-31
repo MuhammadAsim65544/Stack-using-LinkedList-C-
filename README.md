@@ -1,1 +1,1 @@
-# Stack-using-LinkedList-C-
+It is an Stack program implemented in c++.
